@@ -21,7 +21,7 @@ An alternative representation would be to use an array, however, these are not y
 
 ## Language Features
 - `struct` declarations
-- conditional statements
+- conditional statements 
 - early termination. Leo allows users to return from a function early using the `return` keyword.
 
 ## Running the Program
