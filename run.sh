@@ -1,4 +1,4 @@
-#!/bin/bash
+ #!/bin/bash
 # First check that Leo is installed.
 if ! command -v leo &> /dev/null
 then
