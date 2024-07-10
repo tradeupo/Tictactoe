@@ -23,7 +23,7 @@ An alternative representation would be to use an array, however, these are not y
 - `struct` declarations
 - conditional statements 
 - early termination. Leo allows users to return from a function early using the `return` keyword.
-
+ 
 ## Running the Program
 
 Leo provides users with a command line interface for compiling and running Leo programs.
